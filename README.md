@@ -3,7 +3,7 @@ A simple chat app built with socket.io and node.js
 # Available scripts
 ----------------------
 
-#`npm install`
+`#npm install`
  To install all the dependencies
  
  #`node server`
